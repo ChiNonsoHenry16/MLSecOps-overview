@@ -2,7 +2,7 @@
 
 As organizations increasingly deploy machine learning (ML) and generative AI (GenAI) solutions [1], a critical gap is emerging in securing the ML lifecycle—and it's called MLSecOps. Infact, one may say that MLSecOps is a security frontier in this age of AI. 
 
-## 📍 What is MLSecOps?
+## 📍 What is MLSecOps?  
 
 Machine Learning Security Operations (MLSecOps) is an emerging discipline that embeds security, governance, and threat mitigation into the full AI/ML lifecycle—from data collection and model training to deployment, monitoring, and incident response. It extends DevSecOps practices to ML pipelines, addressing unique threats like data poisoning, model theft, prompt injection, and AI supply chain attacks [2]. The diagram below shows specific security practices to be included in the MLOps pipeline [3]. 
 
