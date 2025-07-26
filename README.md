@@ -10,15 +10,15 @@ Machine Learning Security Operations (MLSecOps) is an emerging discipline that e
 
 ## Shocking Reality: Developers Often Bypass MLSecOps
 
-•	A Snyk survey of 537 developers and security professionals found:
-   o	“96% use AI tools in development and nearly 80% bypass organizational security policies to use them”. 
-   o	“Only 9.7% automate more than 75% of their security scans despite high AI usage“[3].
-•	In an IDC/TechTarget generative AI study of 200 U.S. developers:
-   o	“40% say they “often” (31.8%) or “always” (10.3%) discover vulnerabilities in AI-generated code” [4]. 
-•	“Only 18% have implemented continuous monitoring with KPIs” [5].
-•	“93% of organizations are using AI but only 7% have fully embedded governance frameworks” [5]
-•	“30% of all AI cyberattacks will leverage training-data poisoning, AI model theft, or adversarial samples to attack AI-powered systems.” – Gartner [6]
-•	“25 out of 28 organizations struggle to find the right tools to secure their ML systems.” – Microsoft Survey [7]
+*	A Snyk survey of 537 developers and security professionals found:
+   *	“96% use AI tools in development and nearly 80% bypass organizational security policies to use them”. 
+   *	“Only 9.7% automate more than 75% of their security scans despite high AI usage“[3].
+*	In an IDC/TechTarget generative AI study of 200 U.S. developers:
+   *	“40% say they “often” (31.8%) or “always” (10.3%) discover vulnerabilities in AI-generated code” [4]. 
+*	“Only 18% have implemented continuous monitoring with KPIs” [5].
+*	“93% of organizations are using AI but only 7% have fully embedded governance frameworks” [5]
+*	“30% of all AI cyberattacks will leverage training-data poisoning, AI model theft, or adversarial samples to attack AI-powered systems.” – Gartner [6]
+*	“25 out of 28 organizations struggle to find the right tools to secure their ML systems.” – Microsoft Survey [7]
 
 These stats reflect a major security risk: high adoption, low compliance. More so, these gaps can lead to adversarial AI/ML (data poisoning, model inversion, prompt injection), and unauthorized model access [8].
 
