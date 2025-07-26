@@ -1,10 +1,39 @@
 # MLSecOps: A Modern Guide to Machine Learning Security Operations
+
 As organizations increasingly deploy machine learning (ML) and generative AI (GenAI) solutions [1], a critical gap is emerging in securing the ML lifecycle—and it's called MLSecOps. Infact, one may say that MLSecOps is a security frontier in this age of AI. 
 
 ## 📍 What is MLSecOps?
+
 Machine Learning Security Operations (MLSecOps) is an emerging discipline that embeds security, governance, and threat mitigation into the full AI/ML lifecycle—from data collection and model training to deployment, monitoring, and incident response. It extends DevSecOps practices to ML pipelines, addressing unique threats like data poisoning, model theft, prompt injection, and AI supply chain attacks [2]. The diagram below shows specific security practices to be included in the MLOps pipeline. 
 
 <img width="975" height="681" alt="image" src="https://github.com/user-attachments/assets/ab50fa2e-94aa-4c02-acb1-e3b9bf8b2552" />
+
+## Shocking Reality: Developers Often Bypass MLSecOps
+
+•	A Snyk survey of 537 developers and security professionals found:
+   o	“96% use AI tools in development and nearly 80% bypass organizational security policies to use them”. 
+   o	“Only 9.7% automate more than 75% of their security scans despite high AI usage“[3].
+•	In an IDC/TechTarget generative AI study of 200 U.S. developers:
+   o	“40% say they “often” (31.8%) or “always” (10.3%) discover vulnerabilities in AI-generated code” [4]. 
+•	“Only 18% have implemented continuous monitoring with KPIs” [5].
+•	“93% of organizations are using AI but only 7% have fully embedded governance frameworks” [5]
+•	“30% of all AI cyberattacks will leverage training-data poisoning, AI model theft, or adversarial samples to attack AI-powered systems.” – Gartner [6]
+•	“25 out of 28 organizations struggle to find the right tools to secure their ML systems.” – Microsoft Survey [7]
+
+These stats reflect a major security risk: high adoption, low compliance. More so, these gaps can lead to adversarial AI/ML (data poisoning, model inversion, prompt injection), and unauthorized model access [8].
+
+
+## ⚙️ The 5 Domains of MLSecOps
+1. **ML Supply Chain Security**
+2. **Data and Model Provenance**
+3. **ML Governance and Policy Enforcement**
+4. **Trusted and Responsible AI**
+5. **Adversarial ML Defense**
+
+## 🚀 Benefits
+- Prevents model misuse and drift
+- Strengthens trust in AI systems
+- Enables compliance with regulations (e.g., GDPR, AI Act)
 
 
 
