@@ -31,6 +31,17 @@ These stats reflect a major security risk: high adoption, low compliance. More s
 5. **Adversarial ML Defense** – Models are increasingly targeted by adversarial attacks. MLSecOps implements strategies like adversarial training, threat detection, and robust classifier design to secure models in real-time.
 
 
+## ⚙️ MLSecOps Implementation – Key Insights
+
+The following are key insights required for the implementation of MLSecOps in your organization. 
+1. Understanding Risks and Regulations – Identifying AI/ML security needs (i.e., data sources, infrastructure, risk/threat evaluation, defining clear objectives).
+2. Build a Team – The team is made up of data scientists, ML engineers and security experts. Then, establish comprehensive policies, procedures, documentation and communication guidelines. 
+3. Tailor MLSecOps to Your Organization - Use the five MLSecOps domains above to design a security approach aligned with your organizational needs. 
+4. Build Security into the ML Development Lifecycle – Include secure coding and threat modeling, adversarial scenario testing, red-teaming, and monitoring as well as CI/CD triggers. 
+5. Make MLSecOps a Continuous Process with Training & Audit – Treat MLSecOps not as a one-off project, but as a continuous program. 
+
+
+
 ## 🚀 Benefits
 
 - Enables compliance with regulations (e.g., GDPR, AI Act)
