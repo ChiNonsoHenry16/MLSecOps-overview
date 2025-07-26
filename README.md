@@ -12,20 +12,20 @@ Machine Learning Security Operations (MLSecOps) is an emerging discipline that e
 
 *	A Snyk survey of 537 developers and security professionals found:
       - “96% use AI tools in development and nearly 80% bypass organizational security policies to use them”. 
-      - “Only 9.7% automate more than 75% of their security scans despite high AI usage“[3].
+      - “Only 9.7% automate more than 75% of their security scans despite high AI usage“[4].
 *	In an IDC/TechTarget generative AI study of 200 U.S. developers:
-      - “40% say they “often” (31.8%) or “always” (10.3%) discover vulnerabilities in AI-generated code” [4]. 
-*	“Only 18% have implemented continuous monitoring with KPIs” [5].
-*	“93% of organizations are using AI but only 7% have fully embedded governance frameworks” [5]
-*	“30% of all AI cyberattacks will leverage training-data poisoning, AI model theft, or adversarial samples to attack AI-powered systems.” – Gartner [6]
-*	“25 out of 28 organizations struggle to find the right tools to secure their ML systems.” – Microsoft Survey [7]
+      - “40% say they “often” (31.8%) or “always” (10.3%) discover vulnerabilities in AI-generated code” [5]. 
+*	“Only 18% have implemented continuous monitoring with KPIs” [6].
+*	“93% of organizations are using AI but only 7% have fully embedded governance frameworks” [6]
+*	“30% of all AI cyberattacks will leverage training-data poisoning, AI model theft, or adversarial samples to attack AI-powered systems.” – Gartner [7]
+*	“25 out of 28 organizations struggle to find the right tools to secure their ML systems.” – Microsoft Survey [8]
 
 These stats reflect a major security risk: high adoption, low compliance. More so, these gaps can lead to adversarial AI/ML (data poisoning, model inversion, prompt injection), and unauthorized model access [8].
 
 
 ## ⚙️ The 5 Domains of MLSecOps
 
-To safeguard ML systems across the lifecycle, MLSecOps addresses five key risk areas [9]:
+To safeguard ML systems across the lifecycle, MLSecOps addresses five key risk areas [10]:
 
 1. **Supply Chain Vulnerability** - ML models are composed of datasets, code, and components—each introducing security risks. Like software supply chains, they're vulnerable to data poisoning, model theft, and denial-of-service attacks. Model scanners, threat feeds, and AI-specific security tools are essential.
 2. **Model Provenance** – Trust in AI starts with traceability. MLSecOps promotes transparency through practices like maintaining a Machine Learning Bill of Materials (MLBOM), enabling organizations to track model lineage and changes from training to deployment.
@@ -36,7 +36,7 @@ To safeguard ML systems across the lifecycle, MLSecOps addresses five key risk a
 
 ## ⚙️ MLSecOps Implementation – Key Insights
 
-The following are key insights required for the implementation of MLSecOps in your organization [10]. 
+The following are key insights required for the implementation of MLSecOps in your organization [11]. 
 1. Understanding Risks and Regulations – Identifying AI/ML security needs (i.e., data sources, infrastructure, risk/threat evaluation, defining clear objectives).
 2. Build a Team – The team is made up of data scientists, ML engineers and security experts. Then, establish comprehensive policies, procedures, documentation and communication guidelines. 
 3. Tailor MLSecOps to Your Organization - Use the five MLSecOps domains above to design a security approach aligned with your organizational needs. 
