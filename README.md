@@ -36,7 +36,7 @@ To safeguard ML systems across the lifecycle, MLSecOps addresses five key risk a
 
 ## ⚙️ MLSecOps Implementation – Key Insights
 
-The following are key insights required for the implementation of MLSecOps in your organization [9]. 
+The following are key insights required for the implementation of MLSecOps in your organization [10]. 
 1. Understanding Risks and Regulations – Identifying AI/ML security needs (i.e., data sources, infrastructure, risk/threat evaluation, defining clear objectives).
 2. Build a Team – The team is made up of data scientists, ML engineers and security experts. Then, establish comprehensive policies, procedures, documentation and communication guidelines. 
 3. Tailor MLSecOps to Your Organization - Use the five MLSecOps domains above to design a security approach aligned with your organizational needs. 
@@ -70,4 +70,5 @@ Let's not treat ML security as an afterthought. Integrate it early. Make it cont
 6.	Raza, M. (2021). AI Cyberattacks & How They Work, Explained. BMC. https://www.bmc.com/blogs/artificial-intelligence-cyberattacks/ 
 7.	Microsoft Security Team. (2021). Attack AI systems in Machine Learning Evasion Competition. https://www.microsoft.com/en-us/security/blog/2021/07/29/attack-ai-systems-in-machine-learning-evasion-competition/ 
 8.	Stanham, L. (2023). Adversarial AI & Adversarial Machine Learning. https://www.crowdstrike.com/en-us/cybersecurity-101/artificial-intelligence/adversarial-ai-and-machine-learning/ 
-9.	Swanson, I. (2023). How MLSecOps Can Reshape AI Security. https://www.forbes.com/councils/forbestechcouncil/2023/12/04/how-mlsecops-can-reshape-ai-security/  
+9.	Swanson, I. (2023). How MLSecOps Can Reshape AI Security. https://www.forbes.com/councils/forbestechcouncil/2023/12/04/how-mlsecops-can-reshape-ai-security/
+10.	10. Sendas, N. (2025). How To Implement MLSecOps In Your Organization. https://www.forbes.com/councils/forbestechcouncil/2025/06/18/how-to-implement-mlsecops-in-your-organization/  
