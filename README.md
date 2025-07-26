@@ -40,7 +40,11 @@ These stats reflect a major security risk: high adoption, low compliance. More s
 - Prevents model misuse and drift
 - Builds public confidence and internal resilience
 
+Tools like Protect AI's NB Defense, Microsoft Purview, Netskope SaaS Secure Posture Management, and MLSecOps scanner integrations (e.g., Open-Source Guardian) are already helping secure ML pipelines.
 
+Let's not treat ML security as an afterthought. Integrate it early. Make it continuous, to ensure security of AI/ML models and systems. 
+
+#MLSecOps #AIsecurity #MLsecurity #DevSecOps #GenAI #ZeroTrust #CISO #MLOps #AIgovernance
 
 
 ## 📚 References
