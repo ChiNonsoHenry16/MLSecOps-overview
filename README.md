@@ -49,7 +49,6 @@ Let's not treat ML security as an afterthought. Integrate it early. Make it cont
 
 ## 📚 References
 1.	Waterman, S. (2022). Hacking Poses Risks for Artificial Intelligence. https://web.archive.org/web/20220422212213/https:/www.afcea.org/content/hacking-poses-risks-artificial-intelligence 
-
 2.	Kelley, D. (2025). MLSecOps: The Foundation of AI/ML Security. ProtectAI. https://protectai.com/blog/mlsecops-the-foundation-of-ai/ml-security 
 3.	Mello J. P. (2023). Almost all developers are using AI despite security concerns, survey suggests. CSO. https://www.csoonline.com/article/1249838/almost-all-developers-are-using-ai-despite-security-concerns-survey-suggests.html 
 4.	Pariseau, B. (2023). Meet MLSecOps: Industry calls for new measures to secure AI. https://www.techtarget.com/searchITOperations/news/366552019/Meet-MLSecOps-industry-calls-for-new-measures-to-secure-AI 
