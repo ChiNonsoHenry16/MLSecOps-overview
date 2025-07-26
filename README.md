@@ -1,14 +1,10 @@
-# MLSecOps-overview
+# MLSecOps: A Modern Guide to Machine Learning Security Operations
 
 
 
 
 
-## 📚 Resources
-- [Forbes: How To Implement MLSecOps in Your Organization](https://www.forbes.com/councils/forbestechcouncil/2025/06/18/how-to-implement-mlsecops-in-your-organization)
-- [Protect AI Research Reports](https://protectai.com)
-- [Microsoft MLSecOps GitHub](https://github.com/microsoft/mlsecops)
-
+## 📚 References
 1.	Waterman, S. (2022). Hacking Poses Risks for Artificial Intelligence. https://web.archive.org/web/20220422212213/https:/www.afcea.org/content/hacking-poses-risks-artificial-intelligence 
 
 2.	Kelley, D. (2025). MLSecOps: The Foundation of AI/ML Security. ProtectAI. https://protectai.com/blog/mlsecops-the-foundation-of-ai/ml-security 
