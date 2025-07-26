@@ -24,6 +24,9 @@ These stats reflect a major security risk: high adoption, low compliance. More s
 
 
 ## ⚙️ The 5 Domains of MLSecOps
+
+To safeguard ML systems across the lifecycle, MLSecOps addresses five key risk areas [9]:
+
 1. **Supply Chain Vulnerability** - ML models are composed of datasets, code, and components—each introducing security risks. Like software supply chains, they're vulnerable to data poisoning, model theft, and denial-of-service attacks. Model scanners, threat feeds, and AI-specific security tools are essential.
 2. **Model Provenance** – Trust in AI starts with traceability. MLSecOps promotes transparency through practices like maintaining a Machine Learning Bill of Materials (MLBOM), enabling organizations to track model lineage and changes from training to deployment.
 3. **Governance, Risk & Compliance (GRC)** – With regulations like GDPR, CCPA, and the EU AI Act, ML systems must meet strict compliance standards. MLSecOps provides frameworks to monitor data location, test models for bias and reliability, and ensure lawful AI usage.
