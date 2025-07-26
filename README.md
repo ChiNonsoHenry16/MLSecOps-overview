@@ -71,4 +71,4 @@ Let's not treat ML security as an afterthought. Integrate it early. Make it cont
 7.	Microsoft Security Team. (2021). Attack AI systems in Machine Learning Evasion Competition. https://www.microsoft.com/en-us/security/blog/2021/07/29/attack-ai-systems-in-machine-learning-evasion-competition/ 
 8.	Stanham, L. (2023). Adversarial AI & Adversarial Machine Learning. https://www.crowdstrike.com/en-us/cybersecurity-101/artificial-intelligence/adversarial-ai-and-machine-learning/ 
 9.	Swanson, I. (2023). How MLSecOps Can Reshape AI Security. https://www.forbes.com/councils/forbestechcouncil/2023/12/04/how-mlsecops-can-reshape-ai-security/
-10.	10. Sendas, N. (2025). How To Implement MLSecOps In Your Organization. https://www.forbes.com/councils/forbestechcouncil/2025/06/18/how-to-implement-mlsecops-in-your-organization/  
+10. Sendas, N. (2025). How To Implement MLSecOps In Your Organization. https://www.forbes.com/councils/forbestechcouncil/2025/06/18/how-to-implement-mlsecops-in-your-organization/  
