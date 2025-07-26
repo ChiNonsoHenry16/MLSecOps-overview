@@ -11,10 +11,10 @@ Machine Learning Security Operations (MLSecOps) is an emerging discipline that e
 ## Shocking Reality: Developers Often Bypass MLSecOps
 
 *	A Snyk survey of 537 developers and security professionals found:
-   *	“96% use AI tools in development and nearly 80% bypass organizational security policies to use them”. 
-   *	“Only 9.7% automate more than 75% of their security scans despite high AI usage“[3].
+      - “96% use AI tools in development and nearly 80% bypass organizational security policies to use them”. 
+      - “Only 9.7% automate more than 75% of their security scans despite high AI usage“[3].
 *	In an IDC/TechTarget generative AI study of 200 U.S. developers:
-   *	“40% say they “often” (31.8%) or “always” (10.3%) discover vulnerabilities in AI-generated code” [4]. 
+      - “40% say they “often” (31.8%) or “always” (10.3%) discover vulnerabilities in AI-generated code” [4]. 
 *	“Only 18% have implemented continuous monitoring with KPIs” [5].
 *	“93% of organizations are using AI but only 7% have fully embedded governance frameworks” [5]
 *	“30% of all AI cyberattacks will leverage training-data poisoning, AI model theft, or adversarial samples to attack AI-powered systems.” – Gartner [6]
