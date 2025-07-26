@@ -36,7 +36,7 @@ To safeguard ML systems across the lifecycle, MLSecOps addresses five key risk a
 
 ## ⚙️ MLSecOps Implementation – Key Insights
 
-The following are key insights required for the implementation of MLSecOps in your organization. 
+The following are key insights required for the implementation of MLSecOps in your organization [9]. 
 1. Understanding Risks and Regulations – Identifying AI/ML security needs (i.e., data sources, infrastructure, risk/threat evaluation, defining clear objectives).
 2. Build a Team – The team is made up of data scientists, ML engineers and security experts. Then, establish comprehensive policies, procedures, documentation and communication guidelines. 
 3. Tailor MLSecOps to Your Organization - Use the five MLSecOps domains above to design a security approach aligned with your organizational needs. 
